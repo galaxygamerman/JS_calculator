@@ -31,6 +31,18 @@
     outline: 2px darkgrey;
 }
 
+#btn2 {
+    background-color: darkgrey;
+    color: whitesmoke;
+    font-family: 'Orbitron', sans-serif;
+    font-size: large;
+    border: solid #737373 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 95%;
+    outline: 2px #737373;
+}
+
 input[type=button] {
     font-family: 'Orbitron', sans-serif;
     font-size: large;
